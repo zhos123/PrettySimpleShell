@@ -1,0 +1,2 @@
+# PrettySimpleShell
+Bash Type Emulator
